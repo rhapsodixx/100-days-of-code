@@ -7,5 +7,10 @@ module.exports = {
   ],
   "rules": {
     "no-underscore-dangle": ["error", { "allowAfterThis": true }],
+  },
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
   }
 };
