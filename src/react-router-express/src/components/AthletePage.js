@@ -1,6 +1,6 @@
 // @flow
 import React from 'react';
-import Link from 'react-router';
+import { Link } from 'react-router';
 import NotFoundPage from './NotFoundPage';
 import AthletesMenu from './AthletesMenu';
 import Medal from './Medal';

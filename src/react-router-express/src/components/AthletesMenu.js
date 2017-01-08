@@ -1,6 +1,6 @@
 // @flow
 import React from 'react';
-import Link from 'react-router';
+import { Link } from 'react-router';
 import athletes from '../data/athletes';
 
 export default class AthletesMenu extends React.Component {
