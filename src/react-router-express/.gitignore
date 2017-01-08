@@ -38,3 +38,6 @@ jspm_packages
 
 # Idea
 .idea/
+
+#Babel
+babel_cache
